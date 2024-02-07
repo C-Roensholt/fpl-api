@@ -9,16 +9,16 @@ The guide shows all endpoint that are implemented in this API wrapper.
 
 ## Installation
 
-Run the following command to download the most recent release:
+Install from PyPi:
+
+```bash
+pip install fpl-api
+```
+
+Install the most recent in development version:
 
 ```bash
 pip install git+https://github.com/C-Roensholt/fpl-api.git 
-```
-
-To install a specific version:
-
-```bash
-pip install git+https://github.com/C-Roensholt/fpl-api.git@v0.0.1
 ```
 
 ## Usage
