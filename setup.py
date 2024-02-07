@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="fplapi",
-    version="0.0.4",
+    version="{{VERSION_PLACEHOLDER}}",
     description="API wrapper for FPL",
     author="Christian Rønsholt",
     author_email="ronsholt32@gmail.com",
