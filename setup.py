@@ -6,9 +6,9 @@ with open("requirements.txt") as f:
     requirements = f.readlines()
 
 setup(
-    name="fplapi",
+    name="fpl-api",
     version="{{VERSION_PLACEHOLDER}}",
-    description="API wrapper for FPL",
+    description="API wrapper for Fantasy Premier League",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Christian Rønsholt",
